@@ -1,3 +1,4 @@
+//Линейный поиск
 let nums =  [3,6,9,1,4,2,0,8,9,7]
 
 function linear(nums,n){
